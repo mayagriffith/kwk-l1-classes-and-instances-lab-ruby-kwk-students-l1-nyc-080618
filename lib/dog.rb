@@ -6,7 +6,3 @@ class Dog
   @lassie = lassie
   end
 end
-
-
-fido = dog.new
-
