@@ -6,3 +6,5 @@ class Dog
   @lassie = lassie
   end
 end
+
+
